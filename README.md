@@ -1,0 +1,2 @@
+# smartthings
+all things smartthings
